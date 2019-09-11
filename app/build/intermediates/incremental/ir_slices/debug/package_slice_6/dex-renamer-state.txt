@@ -1,0 +1,4 @@
+#Mon Sep 09 14:13:01 IST 2019
+base.0=D\:\\Demo\\LifeCycleAwareDemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex
